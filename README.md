@@ -31,13 +31,9 @@ Ejecuta MAKI PredictionIO en Docker
 
 5. La consola esta disponible en el puertos 9000
 
-    ```Bash
-    $ jps -l
-    ```
-
 ### Referencias:
 
- * [docker-predictionio](https://github.com/steveny2k/docker-predictionio) basado en este Dockerfile
+ * Nos basamos en este Dockerfile [docker-predictionio](https://github.com/steveny2k/docker-predictionio)
 
 
 =========================
